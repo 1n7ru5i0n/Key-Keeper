@@ -2,6 +2,8 @@
 
 KeyKeeper is a secure password manager designed to help users store and manage their passwords in a safe and organized manner. With increasing concerns about online security and the need for strong, unique passwords for each account, KeyKeeper provides a convenient solution to generate, store, and retrieve passwords securely.
 
+While pursuing my diploma in cybersecurity, I became increasingly aware of the risks associated with weak passwords and the importance of regularly rotating them. However, I found that many password management services were expensive. As a result, I decided to develop my own solution, KeyKeeper, to securely manage passwords without the need for costly subscriptions.
+
 <details>
   <summary><strong>Features:</strong></summary>
 
