@@ -8,16 +8,16 @@ KeyKeeper is a secure password manager designed to help users store and manage t
   <summary>Expand</summary>
   
 ### Password Generation:
-    KeyKeeper offers a robust password generation feature, allowing users to create strong and random passwords with customizable options. Users can specify the desired length of the password and choose to include uppercase letters, lowercase letters, numbers, and symbols.
+- KeyKeeper offers a robust password generation feature, allowing users to create strong and random passwords with customizable options. Users can specify the desired length of the password and choose to include uppercase letters, lowercase letters, numbers, and symbols.
 
 ### Secure Storage:
-  Passwords are securely stored using industry-standard encryption techniques. The program encrypts sensitive data using a master key, ensuring that only authorized users with the correct passphrase can access the stored passwords.
+- Passwords are securely stored using industry-standard encryption techniques. The program encrypts sensitive data using a master key, ensuring that only authorized users with the correct passphrase can access the stored passwords.
 
 ### User Management:
-  KeyKeeper supports multiple user accounts, enabling users to create and manage separate password databases for different users or purposes. Each user account is protected with its own master key, providing an additional layer of security.
+- KeyKeeper supports multiple user accounts, enabling users to create and manage separate password databases for different users or purposes. Each user account is protected with its own master key, providing an additional layer of security.
 
 ### Intuitive Interface:
-  The program features a user-friendly interface, making it easy for users to navigate and manage their password data. The interface provides clear prompts and instructions for tasks such as creating new passwords, saving passwords, and retrieving passwords.
+- The program features a user-friendly interface, making it easy for users to navigate and manage their password data. The interface provides clear prompts and instructions for tasks such as creating new passwords, saving passwords, and retrieving passwords.
 </details>
 
 ## Installation And Launching
