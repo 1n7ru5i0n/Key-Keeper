@@ -51,6 +51,7 @@ KeyKeeper is a secure password manager designed to help users store and manage t
 
 <details>
   <summary><strong>Launching from File Explorer</strong></summary>
+  
 ### Process 2: Launching from File Explorer
 1. **Open File Explorer**:
    - Navigate to the folder where the program files are located.
