@@ -6,6 +6,7 @@ KeyKeeper is a secure password manager designed to help users store and manage t
 ### Features:
 <details>
   <summary>Expand</summary>
+  
 ### Password Generation:
 KeyKeeper offers a robust password generation feature, allowing users to create strong and random passwords with customizable options. Users can specify the desired length of the password and choose to include uppercase letters, lowercase letters, numbers, and symbols.
 
