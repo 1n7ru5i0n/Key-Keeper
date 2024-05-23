@@ -31,13 +31,14 @@ KeyKeeper is a secure password manager designed to help users store and manage t
   4. Locate the downloaded ZIP file and extract its contents.
 
 ### Step 2: Accessing the Program
-<details>
-  <summary>Expand</summary>
+  <details>
+    <summary>Expand</summary>
   
 Once you have extracted the ZIP file, you will find the program files in the extracted folder.
 
 ## Step 3: Launching the Program
-</details>
+  <details>
+    <summary>Expand</summary>
 
 ### Process 1: Launching from Command Prompt (CMD)
 
