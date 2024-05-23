@@ -21,18 +21,23 @@ KeyKeeper is a secure password manager designed to help users store and manage t
 </details>
 
 ## Installation And Launching
-
+<details>
+  <summary>Expand</summary>
+  
 ### Step 1: Download the Program
-    1. Click on the green button labeled "Code" to open the dropdown menu.
-    2. Select "Download ZIP" from the dropdown menu.
-    3. Save the ZIP file to your computer.
-    4. Locate the downloaded ZIP file and extract its contents.
+  1. Click on the green button labeled "Code" to open the dropdown menu.
+  2. Select "Download ZIP" from the dropdown menu.
+  3. Save the ZIP file to your computer.
+  4. Locate the downloaded ZIP file and extract its contents.
 
 ### Step 2: Accessing the Program
-
+<details>
+  <summary>Expand</summary>
+  
 Once you have extracted the ZIP file, you will find the program files in the extracted folder.
 
 ## Step 3: Launching the Program
+</details>
 
 ### Process 1: Launching from Command Prompt (CMD)
 
@@ -51,6 +56,7 @@ Once you have extracted the ZIP file, you will find the program files in the ext
      ```bash
      python KeyKeeper.py
      ```
+</details>
 
 ### Process 2: Launching from File Explorer
 
