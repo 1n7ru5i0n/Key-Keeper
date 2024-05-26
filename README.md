@@ -108,4 +108,4 @@ Contributions are always welcome! Reach out to collaborate on building new featu
 
 ## Authors
 
-- [@1n7ru5i0n](https://www.github.com/1n7ru5i0nJ
+- [@1n7ru5i0n](https://www.github.com/1n7ru5i0n)
